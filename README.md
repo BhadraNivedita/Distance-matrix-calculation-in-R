@@ -1,1 +1,1 @@
-# Computing correlation among distance matrices
+# Computing correlation among distance metrices
